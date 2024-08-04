@@ -1,6 +1,6 @@
 # TP Sistemas Operativos - 1er Cuatrimestre 2024
 
-Simulación de un sistema operativo distribuido en 4 modulos con algoritmo de paginación simple y file system de asignación contigua
+Simulación de un sistema operativo distribuido en 4 módulos con algoritmo de paginación simple y file system de asignación contigua
 
 ## Grupo "fossil"
 
