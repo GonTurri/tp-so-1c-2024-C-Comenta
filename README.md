@@ -36,4 +36,4 @@ Features:
 Realizar build de cada modulo (utilizar makefile) y ejecutar en el siguiente orden: Memoria - CPU - Kernel - interfaces
 Nota: Chequear direcciones IP en los configs si se levantan diferentes computadoras
 
-Se recomienda utilizar la siguiente herramienta provista por la catedra, que facilita el proceso de deployment: https://github.com/sisoputnfrba/so-deploy
+[Pruebas que le hicieron al trabajo](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g/edit)
